@@ -1,0 +1,163 @@
+.Ul{
+    margin:0;
+    padding:0;
+    background-color:#000;
+    list-style:none;
+    overflow:hidden;
+}
+.Price{
+    display: flex;
+    justify-content: center;
+}
+.PriceStyle{
+    font-size: 1.3em;
+    direction: rtl;
+}
+.Links{
+    float:left;
+    padding: 1em;
+    color:#fff;
+    text-decoration:none;
+    text-transform: uppercase;
+}
+.Div{
+    display: inline-block;
+    margin-top: 1em;
+    margin-left: 3em;
+padding: 5em;
+    border: 1px solid #000;
+    border-radius: 3em;
+
+}
+.Title{
+   display: flex;
+    justify-content: center;
+
+}
+.Pack{
+    display: flex;
+    justify-content: center;
+}
+.PackStyle{
+    font-size: 1.3em;
+    direction: rtl;
+}
+.TitleStyle{
+    font-size: 1.5em;
+}
+
+.Aks{
+    width:200px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+}
+.StyleButton{
+    padding:0 50px;
+
+    border-radius: 50em;
+    background-color: green;
+    color: #fff;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+.Button{
+    display: flex;
+    justify-content: center;
+}
+.Footer{
+    background-color: #000;
+    padding: 0;
+    margin:0;
+list-style: none;
+
+}
+.FooterLink{
+
+    display: flex;
+    justify-content: center;
+    margin-top: .5em;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.Page{
+    display: flex;
+    justify-content: center;
+
+}
+.PageStyle{
+    text-decoration: none;
+    color: black;
+    margin-left: .5em;
+    margin-top: .7em;
+}
+.DivThree{
+    display: inline-block;
+    margin-top: 1em;
+    margin-left: 2em;
+    padding:5em;
+    border: 1px solid #000;
+    border-radius: 2em;
+}
+.Style{
+    display:flex;
+    justify-content:center;
+    font-size:1.4em;
+    margin-top:7em
+}
+.ButtonAsly{
+    display:flex;
+    justify-content:center;
+    margin-top:20em;
+}
+.ButtonMap{
+    padding:1em;
+    background-color:green;
+    color:#fff;
+    text-decoration:none
+}
+.ButtonShop{
+    padding:1em;
+    background-color:green;
+    color:#fff;
+    margin-left:1em;
+    text-decoration:none
+}
+.LabelPassword{
+    display:flex;
+    justify-content:center;
+    margin-top:1.5em;
+}
+.labelEmail{
+    display:flex;
+    justify-content:center;
+    margin-top:10em
+}
+.Email{
+    display:flex;
+    justify-content:center;
+    margin-top:1em
+}
+.Password{
+    display:flex;
+    justify-content:center;
+    margin-top:1em
+}
+.labelButton{
+    display:flex;
+    justify-content:center;
+    margin-top:1em;
+}
+.Button{
+    padding:1em;
+    background-color:green;
+    color:#fff
+}
+.Footers{
+    margin-top:11em
+
+}
+.Search{
+    margin-top:1em
+}
